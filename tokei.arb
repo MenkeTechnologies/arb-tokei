@@ -1,0 +1,5 @@
+# tokei — Lines of code by language from tokei, self-sourced from `tokei`.
+! tokei every 10s
+table .tokei
+source .tokei { in }
+grid .tokei -row 0 -col 0

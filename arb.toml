@@ -1,0 +1,5 @@
+[package]
+name = "tokei"
+version = "0.1.0"
+license = "MIT"
+description = "Lines of code by language from tokei"
